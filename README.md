@@ -33,8 +33,8 @@ This web app "Smart Study Resource Finder" filters out source based on user pref
 ---
 
 ## Future Improvements
-1.🔹 Ai based recommendation
-2.🔹 User account
+1.🔹 Ai based recommendation                    
+2.🔹 User account                
 3.🔹 Resource rating system  
 4.🔹 Popularity analytics  
 5.🔹 Mobile app version
