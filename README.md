@@ -12,12 +12,12 @@ This web app "Smart Study Resource Finder" filters out source based on user pref
 ---
 
 ## Features :
--✅ Subject wise filtering
--✅ Level based recommendation
--✅ Language preference
--✅ Curated high quality resources
--✅ resource discription
--✅ Clean streamlit UI
+-✅ Subject wise filtering            
+-✅ Level based recommendation                    
+-✅ Language preference            
+-✅ Curated high quality resources          
+-✅ resource discription                        
+-✅ Clean streamlit UI            
 ---
 
 ## Tech stack
